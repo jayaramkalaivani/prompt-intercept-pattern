@@ -41,6 +41,10 @@ To rename the command, update three places:
 2. The `case` match in `user_prompt_submit.sh`
 3. The `args` parameter strip in `user_prompt_submit.sh`
 
+## Real Examples
+- https://github.com/kylesnowschwartz/claude-bumper-lanes/blob/main/bumper-lanes-plugin/tools/bumper-lanes/internal/hooks/prompt_handler.go
+- https://github.com/kylesnowschwartz/SimpleClaude/blob/main/plugins/sc-hooks/hooks/handlers/copy_message_handler.rb
+
 ## When to use this
 
 Any command where the work is a side effect and sending a prompt to Claude is waste:
