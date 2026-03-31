@@ -2,6 +2,8 @@
 
 A Claude Code plugin that demonstrates **hook-intercepted commands** — slash commands that run code without consuming an API turn.
 
+![Demo of the prompt intercept pattern](prompt-intercept-pattern.png)
+
 ## The pattern
 
 Normal slash commands send their content to Claude as a prompt. This pattern short-circuits that: a `UserPromptSubmit` hook intercepts the prompt, runs your code, and blocks the API call. Claude never sees it.
